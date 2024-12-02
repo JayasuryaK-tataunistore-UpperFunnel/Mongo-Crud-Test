@@ -3,7 +3,7 @@ spring:
     name: mongo-test
   data:
     mongodb:
-      uri: mongodb+srv://mongosurya:test123@suryamongodbcluster.qfnan.mongodb.net/?retryWrites=true&w=majority&appName=suryaMongodbcluster
+      uri: mongodb+srv://usrnm:passwrd@clustrnm.qfnan.mongodb.net/?retryWrites=true&w=majority&appName=clustrnm
       database: Task
 
 
