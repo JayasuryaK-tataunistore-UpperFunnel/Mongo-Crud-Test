@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: mongo-test
+  data:
+    mongodb:
+      uri: mongodb+srv://mongosurya:test123@suryamongodbcluster.qfnan.mongodb.net/?retryWrites=true&w=majority&appName=suryaMongodbcluster
+      database: Task
+
+
